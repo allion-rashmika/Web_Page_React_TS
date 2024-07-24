@@ -1,0 +1,33 @@
+.top-authors {
+  margin-top: 50px;
+}
+
+.top-authors-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  font-family: "Nunito", sans-serif;
+}
+
+.top-authors-header h2 {
+  font-size: 1.5em;
+  font-family: "Nunito", sans-serif;
+}
+
+.top-authors-header p {
+  cursor: pointer;
+  color: var(--primary-color-1);
+  font-family: "Nunito", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  margin-left: 80px;
+}
+  
+.author-list {
+    display: flex;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    font-family: "Nunito", sans-serif;
+  }
+
+  

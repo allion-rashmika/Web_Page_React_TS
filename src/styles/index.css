@@ -1,0 +1,38 @@
+
+/* utilities style imports */
+@import url('./utilities/normalize.css');
+@import url('./utilities/global.css');
+
+/* token styles imports */
+@import url('./design-system/token/var.css');
+
+/* atoms styles imports */
+@import url('./design-system/atoms/button.css');
+@import url('./design-system/atoms/icon.css');
+@import url('./design-system/atoms/image.css');
+@import url('./design-system/atoms/input.css');
+@import url('./design-system/atoms/text.css');
+
+/* molecules styles imports */
+@import url('./design-system/molecules/authorCard.css');
+@import url('./design-system/molecules/bookCard.css');
+@import url('./design-system/molecules/searchBar.css');
+@import url('./design-system/molecules/profileName.css');
+@import url('./design-system/molecules/dailyWorks.css');
+@import url('./design-system/molecules/nextBooks.css');
+@import url('./design-system/molecules/upperBox.css');
+@import url('./design-system/molecules/summaryBox.css');
+
+/* organisms styles imports */
+@import url('./design-system/organisms/popularBooks.css');
+@import url('./design-system/organisms/sidebar.css');
+@import url('./design-system/organisms/topAuthors.css');
+@import url('./design-system/organisms/trendingBooks.css');
+@import url('./design-system/organisms/userInfo.css');
+@import url('./design-system/organisms/rightBar.css');
+
+/* pages styles imports */
+@import url('./design-system/pages/dashboardPage.css');
+
+/* templates styles imports */
+@import url('./design-system/templates/dashboardTemplates.css');

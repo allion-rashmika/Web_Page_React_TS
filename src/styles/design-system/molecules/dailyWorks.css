@@ -1,0 +1,51 @@
+.daily-works {
+  margin: 0 0;
+  border-radius: 10px;
+}
+
+.daily-works-content {
+  width: 300px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  margin: 0 0;
+  justify-content: space-between;
+}
+
+.books-this-week{
+  color:#27A857;
+  font-size: 1em;
+  margin-right: 10px;
+  padding: 20px;
+}
+
+.daily-works h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.daily-book-image {
+  width: 50px;
+  height: 50px;
+  margin-left: 40px;
+}
+
+.progress-circle {
+  width: 50px;
+  height: 50px;
+  margin-right: 45px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid  #27A857;
+  border-width: 4px;
+  color: #27A857;
+  font-weight: 700;
+}

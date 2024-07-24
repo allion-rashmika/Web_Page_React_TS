@@ -1,0 +1,88 @@
+.trending-books {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var( --primary-color-1); 
+  background-image: url('../../../assets/trendingBox/maskGroup.png');
+  background-size: cover;
+  width: 775px;
+  padding: 20px;
+  border-radius: 24px;
+  position: relative;
+  overflow: hidden;
+  background-size:cover;
+  background-position: center;
+}
+
+.trending-content {
+  max-width: 50%;
+}
+
+.trending-content h2 {
+   font-size: 1.8em;
+   color: white;
+   padding-left: 20px;
+   font-family: "Yeseva One", serif;
+   font-weight: 400;
+   font-style: normal;
+   letter-spacing: 2px;
+   line-height: 40px;
+}
+  
+
+.trending-content p {
+  margin-bottom: 20px;
+  color: white;
+  padding-left: 20px;
+  padding-top: 10px;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.trending-button {
+  background-color: #ff5722;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 1em;
+  margin-left: 20px
+}
+
+.trending-button:hover {
+  background-color: #e64a19;
+}
+
+.trending-image {
+  max-width: 45%;
+}
+
+.trending-man {
+  position: absolute;
+}
+
+.man{
+  top: 50px;
+  right: 150px;
+}
+
+.trending-book {
+  position: absolute;
+}
+
+.books {
+  top: 10px;
+  right: 80px;
+}
+
+.trending-frame{
+  position: absolute;
+}
+
+.frame{
+  top: 40px;
+  right: 130px;
+}

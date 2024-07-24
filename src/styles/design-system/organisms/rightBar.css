@@ -1,0 +1,17 @@
+.rightBar {
+    width: 330px;
+    height: 1024px;
+    padding: 20px;
+    background-color: #E4FBE7;
+    border-right: 1px solid #ddd;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 40px;
+  }
+  
+  .rightBar > * {
+    margin-bottom: 20px;
+  }
+  

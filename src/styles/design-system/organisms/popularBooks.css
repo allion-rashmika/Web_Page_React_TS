@@ -1,0 +1,37 @@
+.popular-books {
+  margin: 20px 0;
+}
+
+.popular-books h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  font-family: "Nunito", sans-serif;
+}
+
+.popular-books-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  font-family: "Nunito", sans-serif;
+}
+
+.popular-books-header p {
+  cursor: pointer;
+  color: var(--primary-color-1);
+  font-weight: 500;
+  font-family: "Nunito", sans-serif;
+  font-size: 18px;
+  margin-left: 80px; 
+}
+
+.book-list {
+  display: flex;
+  font-family: "Nunito", sans-serif;
+}
+
+.divider {
+  border: 0;
+  height: 1px;
+  background: #E0E7EB;
+  margin-top: 90px;
+}

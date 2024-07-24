@@ -1,0 +1,13 @@
+.dashboard-content {
+  padding: 20px;
+  background-color: #f5f2f2;
+  max-height: 100vh; 
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+  
+  .dashboard-content h2 {
+    font-size: 1.5em;
+    color: var(--primary-color);
+  }
+  
